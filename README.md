@@ -111,4 +111,4 @@ Brings together key findings from both student and parent analyses and presents 
 
 ## Data Privacy
 
-The dataset used in this project belongs to a real client and contains confidential information. Therefore, the raw data is **not included** in this repository. Only project documentation and dashboard previews are shared for portfolio purposes.
+The dataset used in this project belongs to a real client and contains confidential information. Therefore, the raw data is **not included** in this repository. Only dashboard previews are shared for portfolio purposes.
